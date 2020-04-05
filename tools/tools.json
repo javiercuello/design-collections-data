@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Adobe XD",
+    "basic_info":{
+      "color": "#2D001D",
+      "description": "Adobe XD is made for designers like you, by designers like us.",
+      "image": "../data/tools/img/adobe-xd.png",
+      "website": "https://www.adobe.com/products/xd.html"
+    },
+    "availability":{
+      "linux": false,
+      "macos": true,
+      "web": false,
+      "windows": true
+    },
+    "features":{
+      "animation": true,
+      "code": false,
+      "design": true,
+      "gestures": true,
+      "transitions": true
+    },
+    "pricing":{
+      "free": true,
+      "price": "From $0/mo.",
+      "trial": true,
+      "time": "project limited"
+    }
+  },
+
+  {
+    "name": "Axure RP",
+    "basic_info":{
+      "color": "#FFFFFF",
+      "description": "See why 87% of the Fortune 100 use Axure RP to wireframe and prototype projects.",
+      "image": "../data/tools/img/axure.png",
+      "website": "https://www.axure.com/"
+    },
+    "availability":{
+      "linux": false,
+      "macos": true,
+      "web": false,
+      "windows": true
+    },
+    "features":{
+      "animation": false,
+      "code": false,
+      "design": true,
+      "gestures": false,
+      "transitions": false
+    },
+    "pricing":{
+      "free": false,
+      "price": "$29/mo.",
+      "trial": true,
+      "time": "30 days"
+    }
+  },
+
+  {
+    "name": "Balsamiq Wireframes",
+    "basic_info":{
+      "color": "#FFFFFF",
+      "description": "A rapid low-fidelity UI wireframing tool that reproduces the experience of sketching on a notepad or whiteboard, but using a computer.",
+      "image": "../data/tools/img/balsamiq.png",
+      "website": "https://balsamiq.com/wireframes/"
+    },
+    "availability":{
+      "linux": false,
+      "macos": true,
+      "web": false,
+      "windows": true
+    },
+    "features":{
+      "animation": false,
+      "code": false,
+      "design": true,
+      "gestures": false,
+      "transitions": false
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $9/mo.",
+      "trial": true,
+      "time": "30 days"
+    }
+  },
+
+  {
+    "name": "Figma",
+    "basic_info":{
+      "color": "#000000",
+      "description": "A better way to design. Design, prototype, and collaborate all in the browser—with Figma.",
+      "image": "../data/tools/img/figma.png",
+      "website": "https://www.figma.com/"
+    },
+    "availability":{
+      "linux": false,
+      "macos": true,
+      "web": true,
+      "windows": false
+    },
+    "features":{
+      "animation": false,
+      "code": false,
+      "design": true,
+      "gestures": false,
+      "transitions": false
+    },
+    "pricing":{
+      "free": true,
+      "price": "From $0/mo.",
+      "trial": false
+    }
+  },
+
+  {
+    "name": "Framer X",
+    "basic_info":{
+      "color": "#000000",
+      "description": "Design realistic interactive prototypes. And bring everything closer to production.",
+      "image": "../data/tools/img/framer.png",
+      "website": "https://framer.com/"
+    },
+    "availability":{
+      "linux": false,
+      "macos": true,
+      "web": false,
+      "windows": false
+    },
+    "features":{
+      "animation": true,
+      "code": true,
+      "design": true,
+      "gestures": true,
+      "transitions": true
+    },
+    "pricing":{
+      "free": false,
+      "price": "$12/mo.",
+      "trial": true,
+      "time": "14 days"
+    }
+  },
+
+  {
+    "name": "InVision Studio",
+    "basic_info":{
+      "color": "#FF3366",
+      "description": "Design, prototype, and animate—all in one place.",
+      "image": "../data/tools/img/invision-studio.png",
+      "website": "https://www.invisionapp.com/studio"
+    },
+    "availability":{
+      "linux": false,
+      "macos": true,
+      "web": false,
+      "windows": false
+    },
+    "features":{
+      "animation": true,
+      "code": false,
+      "design": true,
+      "gestures": true,
+      "transitions": true
+    },
+    "pricing":{
+      "free": true,
+      "price": "Free",
+      "trial": false
+    }
+  },
+
+  {
+    "name": "Justinmind",
+    "basic_info":{
+      "color": "#21C0C0",
+      "description": "Define awesome experiences through wireframes & prototypes.",
+      "image": "../data/tools/img/justinmind.png",
+      "website": "https://www.justinmind.com/"
+    },
+    "availability":{
+      "linux": false,
+      "macos": true,
+      "web": false,
+      "windows": true
+    },
+    "features":{
+      "animation": false,
+      "code": false,
+      "design": true,
+      "gestures": true,
+      "transitions": true
+    },
+    "pricing":{
+      "free": true,
+      "price": "From $0/mo.",
+      "trial": true,
+      "time": "30 days"
+    }
+  },
+
+  {
+    "name": "Marvel",
+    "basic_info":{
+      "color": "#1FB6FF",
+      "description": "A design tool in your browser. Design, made simple. No software or experience required.",
+      "image": "../data/tools/img/marvel.png",
+      "website": "https://marvelapp.com/"
+    },
+    "availability":{
+      "linux": false,
+      "macos": false,
+      "web": true,
+      "windows": false
+    },
+    "features":{
+      "animation": false,
+      "code": false,
+      "design": true,
+      "gestures": true,
+      "transitions": true
+    },
+    "pricing":{
+      "free": true,
+      "price": "From $0/mo.",
+      "trial": false
+    }
+  },
+
+  {
+    "name": "Pinciple",
+    "basic_info":{
+      "color": "#7838B3",
+      "description": "Principle makes it easy to design animated and interactive user interfaces.",
+      "image": "../data/tools/img/principle.png",
+      "website": "https://principleformac.com/"
+    },
+    "availability":{
+      "linux": false,
+      "macos": true,
+      "web": false,
+      "windows": false
+    },
+    "features":{
+      "animation": true,
+      "code": false,
+      "design": true,
+      "gestures": true,
+      "transitions": true
+    },
+    "pricing":{
+      "free": false,
+      "price": "$129",
+      "trial": true,
+      "time": "14 days"
+    }
+  },
+
+  {
+    "name": "Proto.io",
+    "basic_info":{
+      "color": "#00A1C0",
+      "description": "Create fully-interactive high-fidelity prototypes that look and work exactly like your app should. No coding required.",
+      "image": "../data/tools/img/protoio.png",
+      "website": "https://proto.io/"
+    },
+    "availability":{
+      "linux": false,
+      "macos": false,
+      "web": true,
+      "windows": false
+    },
+    "features":{
+      "animation": true,
+      "code": false,
+      "design": true,
+      "gestures": false,
+      "transitions": true
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $24/mo.",
+      "trial": true,
+      "time": "15 days"
+    }
+  },
+
+  {
+    "name": "Protopie",
+    "basic_info":{
+      "color": "#FF7472",
+      "description": "Piece hi-fi interactions together, build sensor-aided prototypes and share your creations.",
+      "image": "../data/tools/img/protopie.png",
+      "website": "https://www.protopie.io/"
+    },
+    "availability":{
+      "linux": false,
+      "macos": true,
+      "web": false,
+      "windows": true
+    },
+    "features":{
+      "animation": true,
+      "code": false,
+      "design": true,
+      "gestures": true,
+      "transitions": true
+    },
+    "pricing":{
+      "free": false,
+      "price": "$99/year",
+      "trial": true,
+      "time": "10 days"
+    }
+  },
+
+  {
+    "name": "Sketch",
+    "basic_info":{
+      "color": "#130A33",
+      "description": "Sketch lets you create your best work — from your earliest ideas, through to final designs.",
+      "image": "../data/tools/img/sketch.png",
+      "website": "https://www.sketch.com/"
+    },
+    "availability":{
+      "linux": false,
+      "macos": true,
+      "web": false,
+      "windows": false
+    },
+    "features":{
+      "animation": false,
+      "code": false,
+      "design": true,
+      "gestures": false,
+      "transitions": true
+    },
+    "pricing":{
+      "free": false,
+      "price": "$99/year",
+      "trial": true,
+      "time": "30 days"
+    }
+  },
+
+  {
+    "name": "UXPin",
+    "basic_info":{
+      "color": "#000000",
+      "description": "It gives you everything needed to design prototypes that work like they’re the finished product.",
+      "image": "../data/tools/img/uxpin.png",
+      "website": "https://www.uxpin.com"
+    },
+    "availability":{
+      "linux": false,
+      "macos": true,
+      "web": true,
+      "windows": true
+    },
+    "features":{
+      "animation": false,
+      "code": false,
+      "design": true,
+      "gestures": false,
+      "transitions": true
+    },
+    "pricing":{
+      "free": true,
+      "price": "From $0/mo.",
+      "trial": true,
+      "time": "project limited"
+    }
+  }
+
+]

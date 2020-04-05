@@ -1,0 +1,227 @@
+[
+
+  {
+    "name": "A List Apart",
+    "basic_info":{
+      "description": "Explores the design, development, and meaning of web content, with a special focus on web standards and best practices.",
+      "image": "../data/blogs/img/a-list-apart.png",
+      "color": "#ffffff",
+      "website": "https://alistapart.com"
+    },
+    "type":{
+      "blog": true,
+      "printmagazine": false,
+      "onlinemagazine": false
+    },
+    "categories":{
+      "digital": true,
+      "branding": false,
+      "general": false,
+      "graphicdesign": false,
+      "illustration": false,
+      "interfacedesign": true,
+      "notdesign": false,
+      "typography": false
+    }
+  },
+  {
+    "name": "Brand New",
+    "basic_info":{
+      "description": "We cover redesigns and new designs of notable products, companies, services, and organizations across all industries and locations.",
+      "image": "../data/blogs/img/brand-new.png",
+      "color": "#ffffff",
+      "website": "https://www.underconsideration.com/brandnew/"
+    },
+    "type":{
+      "blog": true,
+      "printmagazine": false,
+      "onlinemagazine": false
+    },
+    "categories":{
+      "digital": false,
+      "branding": true,
+      "general": false,
+      "graphicdesign": false,
+      "illustration": false,
+      "interfacedesign": false,
+      "notdesign": false,
+      "typography": false
+    }
+  },
+
+  {
+    "name": "Eye on Design",
+    "basic_info":{
+      "description": "AIGA Eye on Design covers the world’s most exciting designers—and the issues they care about. We’re published by AIGA, the professional association for design, the oldest and largest not-for-profit design organization in the United States.",
+      "image": "../data/blogs/img/eye-on-design.png",
+      "color": "#ff8c8c",
+      "website": "https://eyeondesign.aiga.org"
+    },
+    "type":{
+      "blog": true,
+      "printmagazine": false,
+      "onlinemagazine": false
+    },
+    "categories":{
+      "digital": true,
+      "branding": true,
+      "general": true,
+      "graphicdesign": true,
+      "illustration": true,
+      "interfacedesign": false,
+      "notdesign": false,
+      "typography": true
+    }
+  },
+
+  {
+    "name": "Interface Lovers",
+    "basic_info":{
+      "description": "Interface Lovers is an online magazine for creative professionals. We put the spotlight on designers that are creating the future and touching the lives of many.",
+      "image": "../data/blogs/img/interface-lovers.png",
+      "color": "#000000",
+      "website": "https://interfacelovers.com"
+    },
+    "type":{
+      "blog": false,
+      "printmagazine": false,
+      "onlinemagazine": true
+    },
+    "categories":{
+      "digital": true,
+      "branding": false,
+      "general": false,
+      "graphicdesign": false,
+      "illustration": false,
+      "interfacedesign": true,
+      "notdesign": false,
+      "typography": false
+    }
+  },
+
+  {
+    "name": "It's Nice That",
+    "basic_info":{
+      "description": "It’s Nice That believes passionately that creative inspiration is for everyone, and by championing the most exciting and engaging work online, in print and through our events programmes, we want to open up this world to the widest possible audience.",
+      "image": "../data/blogs/img/its-nice-that.png",
+      "color": "#ffffff",
+      "website": "https://www.itsnicethat.com"
+    },
+    "type":{
+      "blog": true,
+      "printmagazine": false,
+      "onlinemagazine": false
+    },
+    "categories":{
+      "digital": true,
+      "branding": true,
+      "general": true,
+      "graphicdesign": true,
+      "illustration": true,
+      "interfacedesign": false,
+      "notdesign": false,
+      "typography": true
+    }
+  },
+
+  {
+    "name": "Offscreen",
+    "basic_info":{
+      "description": "Offscreen is an independent print magazine that examines how we shape technology and how technology shapes us.",
+      "image": "../data/blogs/img/offscreen.png",
+      "color": "#ffffff",
+      "website": "https://www.offscreenmag.com"
+    },
+    "type":{
+      "blog": false,
+      "printmagazine": true,
+      "onlinemagazine": false
+    },
+    "categories":{
+      "digital": false,
+      "branding": false,
+      "general": false,
+      "graphicdesign": false,
+      "illustration": false,
+      "interfacedesign": false,
+      "notdesign": true,
+      "typography": false
+    }
+  },
+
+  {
+    "name": "Rooki",
+    "basic_info":{
+      "description": "Rooki is the online magazine for students, interns and juniors with intimate interviews, free design student awards and free resources. ",
+      "color": "#ffefef",
+      "image": "../data/blogs/img/rooki.png",
+      "website": "https://www.rooki.design"
+    },
+    "type":{
+      "blog": true,
+      "printmagazine": false,
+      "onlinemagazine": false
+    },
+    "categories":{
+      "digital": true,
+      "branding": false,
+      "general": true,
+      "graphicdesign": true,
+      "illustration": false,
+      "interfacedesign": false,
+      "notdesign": false,
+      "typography": true
+    }
+  },
+
+  {
+    "name": "Smashing Magazine",
+    "basic_info":{
+      "description": "Smashing Magazine delivers reliable, useful, but most importantly practical articles to web designers and developers.",
+      "color": "#ffffff",
+      "image": "../data/blogs/img/smashing-magazine.png",
+      "website": "https://www.smashingmagazine.com"
+    },
+    "type":{
+      "blog": true,
+      "printmagazine": false,
+      "onlinemagazine": false
+    },
+    "categories":{
+      "digital": true,
+      "branding": false,
+      "general": false,
+      "graphicdesign": false,
+      "illustration": false,
+      "interfacedesign": true,
+      "notdesign": false,
+      "typography": false
+    }
+  },
+
+  {
+    "name": "The Creative Independent",
+    "basic_info":{
+      "description": "A growing resource of emotional and practical guidance for creative people, published by Kickstarter, PBC.",
+      "image": "../data/blogs/img/the-creative-independent.png",
+      "color": "#ffffff",
+      "website": "https://thecreativeindependent.com"
+    },
+    "type":{
+      "blog": true,
+      "printmagazine": false,
+      "onlinemagazine": false
+    },
+    "categories":{
+      "digital": false,
+      "branding": false,
+      "general": true,
+      "graphicdesign": false,
+      "illustration": false,
+      "interfacedesign": false,
+      "notdesign": false,
+      "typography": false
+    }
+  }
+
+]

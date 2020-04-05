@@ -1,0 +1,367 @@
+[
+
+  {
+    "name": "Articulating Design Decisions",
+    "basic_info":{
+      "author": "Tom Greever",
+      "description": "This practical guide focuses on principles, tactics, and actionable methods for presenting your designs. Whether you design UX, websites, or products, you’ll learn how to win over anyone who has influence over the project—with the goal of creating the best experience for the end user.",
+      "image": "../data/books/img/articulating-design-decisions.png",
+      "website": "http://shop.oreilly.com/product/0636920037422.do"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $23.00"
+    },
+    "publishing":{
+      "year": "2015",
+      "publisher": "O'Reilly Media"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": false,
+      "entrepreneurship": false,
+      "general": true,
+      "notdesign": false,
+      "typography": false,
+      "usability": false,
+      "ux": true
+    }
+  },
+
+  {
+    "name": "Better Web Typography for a Better Web",
+    "basic_info":{
+      "author": "Matej Latin",
+      "description": "This is not just a book—it’s a course in a book format. Digital extras, example exercises, the source code and the Sketch/Figma files that are included make this book perfect for diving into the magnificent world of web typography.",
+      "image": "../data/books/img/better-web-typography-for-a-better-web.png",
+      "website": "https://betterwebtype.com/web-typography-book/"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $19.95"
+    },
+    "publishing":{
+      "year": "2017",
+      "publisher": "Self-published"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": false,
+      "entrepreneurship": false,
+      "general": false,
+      "notdesign": false,
+      "typography": true,
+      "usability": false,
+      "ux": false
+    }
+  },
+
+  {
+    "name": "Designing for Touch",
+    "basic_info":{
+      "author": "Josh Clark",
+      "description": "Get the know-how to design for interfaces that let you touch—stretch, crumple, drag, flick—information itself.",
+      "image": "../data/books/img/designing-for-touch.png",
+      "website": "https://abookapart.com/products/designing-for-touch"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $14.00"
+    },
+    "publishing":{
+      "year": "2015",
+      "publisher": "A Book Apart"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": false,
+      "entrepreneurship": false,
+      "general": false,
+      "notdesign": false,
+      "typography": false,
+      "usability": true,
+      "ux": true
+    }
+  },
+
+  {
+    "name": "Design is a Job",
+    "basic_info":{
+      "author": "Mike Monteiro",
+      "description": "From contracts to selling design, from working with clients to working with each other, you’ll learn why navigating the business of design is just as important as the craft of it.",
+      "image": "../data/books/img/design-is-a-job.png",
+      "website": "https://abookapart.com/products/design-is-a-job"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $14.00"
+    },
+    "publishing":{
+      "year": "2012",
+      "publisher": "A Book Apart"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": false,
+      "entrepreneurship": true,
+      "general": true,
+      "notdesign": false,
+      "typography": false,
+      "usability": false,
+      "ux": false
+    }
+  },
+
+  {
+    "name": "Design of Everyday Things",
+    "basic_info":{
+      "author": "Don Norman",
+      "description": "A bestseller in the United States, this bible on the cognitive aspects of design contains examples of both good and bad design and simple rules that designers can use to improve the usability of objects as diverse as cars, computers, doors, and telephones.",
+      "image": "../data/books/img/design-of-everyday-things.png",
+      "website": "https://mitpress.mit.edu/books/design-everyday-things"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $9.82"
+    },
+    "publishing":{
+      "year": "1998",
+      "publisher": "MIT"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": true,
+      "entrepreneurship": false,
+      "general": true,
+      "notdesign": false,
+      "typography": false,
+      "usability": false,
+      "ux": false
+    }
+  },
+
+  {
+    "name": "Don’t Make Me Think",
+    "basic_info":{
+      "author": "Steve Krug",
+      "description": "Since Don’t Make Me Think was first published in 2000, hundreds of thousands of Web designers and developers have relied on usability guru Steve Krug’s guide to help them understand the principles of intuitive navigation and information design. Witty, commonsensical, and eminently practical, it’s one of the best-loved and most recommended books on the subject.",
+      "image": "../data/books/img/dont-make-me-think.png",
+      "website": "https://www.pearson.com/us/higher-education/program/Krug-Don-t-Make-Me-Think-Revisited-A-Common-Sense-Approach-to-Web-Usability-3rd-Edition/PGM9488.html"
+    },
+    "pricing":{
+      "free": false,
+      "price": "$36.00"
+    },
+    "publishing":{
+      "year": "2014",
+      "publisher": "New Riders"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": true,
+      "entrepreneurship": false,
+      "general": true,
+      "notdesign": false,
+      "typography": false,
+      "usability": true,
+      "ux": true
+    }
+  },
+
+  {
+    "name": "Expressive Design Systems",
+    "basic_info":{
+      "author": "Yesenia Pérez-Cruz",
+      "description": "Learn to build purposeful design systems that support and strengthen your team’s creativity.",
+      "image": "../data/books/img/expressive-design-systems.png",
+      "website": "https://abookapart.com/products/expressive-design-systems"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $14.00"
+    },
+    "publishing":{
+      "year": "2019",
+      "publisher": "A Book Apart"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": false,
+      "entrepreneurship": false,
+      "general": false,
+      "notdesign": false,
+      "typography": false,
+      "usability": false,
+      "ux": true
+    }
+  },
+
+  {
+    "name": "Form Design Patterns",
+    "basic_info":{
+      "author": "Adam Silver",
+      "description": "Without forms, the web is a passive experience where content is just consumed. But with forms the web can be collaborative, creative and productive. Forms are at the center of every meaningful interaction, so they’re worth getting a firm handle on.",
+      "image": "../data/books/img/form-design-patterns.png",
+      "website": "https://shop.smashingmagazine.com/products/form-design-patterns-by-adam-silver"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From €19.00"
+    },
+    "publishing":{
+      "year": "2018",
+      "publisher": "Smashing Magazine"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": false,
+      "entrepreneurship": false,
+      "general": false,
+      "notdesign": false,
+      "typography": false,
+      "usability": true,
+      "ux": true
+    }
+  },
+
+  {
+    "name": "Interviewing Users",
+    "basic_info":{
+      "author": "Steve Portigal",
+      "description": "Interviewing is a foundational user research tool that people assume they already possess. Everyone can ask questions, right? Unfortunately, that’s not the case. Interviewing Users provides invaluable interviewing techniques and tools that enable you to conduct informative interviews with anyone. You’ll move from simply gathering data to uncovering powerful insights about people.",
+      "image": "../data/books/img/interviewing-users.png",
+      "website": "https://rosenfeldmedia.com/books/interviewing-users/"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $21.99"
+    },
+    "publishing":{
+      "year": "2013",
+      "publisher": "Rosenfeld Media"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": false,
+      "entrepreneurship": false,
+      "general": false,
+      "notdesign": false,
+      "typography": false,
+      "usability": false,
+      "ux": true
+    }
+  },
+
+  {
+    "name": "Lean UX",
+    "basic_info":{
+      "author": "Jeff Gothelf, Josh Seiden",
+      "description": "The Lean UX approach to interaction design is tailor-made for today’s web-driven reality. In this insightful book, leading advocate Jeff Gothelf teaches you valuable Lean UX principles, tactics, and techniques from the ground up—how to rapidly experiment with design ideas, validate them with real users, and continually adjust your design based on what you learn.",
+      "image": "../data/books/img/lean-ux.png",
+      "website": "http://shop.oreilly.com/product/0636920021827.do"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $22.30"
+    },
+    "publishing":{
+      "year": "2013",
+      "publisher": "O'Reilly Media"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": false,
+      "entrepreneurship": false,
+      "general": false,
+      "notdesign": false,
+      "typography": false,
+      "usability": false,
+      "ux": true
+    }
+  },
+
+  {
+    "name": "Let My People Go Surfing",
+    "basic_info":{
+      "author": "Yvon Chouinard",
+      "description": "Yvon Chouinard-legendary climber, businessman, environmentalist, and founder of Patagonia, Inc.-shares the persistence and courage that have gone into being head of one of the most respected and environmentally responsible companies on earth.",
+      "image": "../data/books/img/let-my-people-go-surfing.png",
+      "website": "https://www.penguinrandomhouse.com/books/536777/let-my-people-go-surfing-by-yvon-chouinard-foreword-by-naomi-klein/"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $22.00"
+    },
+    "publishing":{
+      "year": "2006",
+      "publisher": "Penguin Books"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": false,
+      "entrepreneurship": false,
+      "general": false,
+      "notdesign": true,
+      "typography": false,
+      "usability": false,
+      "ux": false
+    }
+  },
+
+  {
+    "name": "Steal Like an Artist",
+    "basic_info":{
+      "author": "Austin Kleon",
+      "description": "A New York Times best-selling manifesto for creativity in the digital age.",
+      "image": "../data/books/img/steal-like-an-artist.png",
+      "website": "https://austinkleon.com/steal/"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $4.21"
+    },
+    "publishing":{
+      "year": "2012",
+      "publisher": "Workman Publishing"
+    },
+    "categories":{
+      "accesibility": false,
+      "creativity": true,
+      "entrepreneurship": false,
+      "general": true,
+      "notdesign": false,
+      "typography": false,
+      "usability": false,
+      "ux": false
+    }
+  },
+
+  {
+    "name": "Universal Principles of Design",
+    "basic_info":{
+      "author": "William Lidwell, Kritina Holden, Jill Butler",
+      "description": "Because no one can be an expert on everything, designers have always had to scramble to find the information and know-how required to make a design work - until now.",
+      "image": "../data/books/img/universal-principles-of-design.png",
+      "website": "https://www.amazon.com/Universal-Principles-Design-Revised-Updated-ebook/dp/B00A3T5UO4"
+    },
+    "pricing":{
+      "free": false,
+      "price": "From $12.24"
+    },
+    "publishing":{
+      "year": "2010",
+      "publisher": "Rockport Publisher"
+    },
+    "categories":{
+      "accesibility": true,
+      "creativity": false,
+      "entrepreneurship": false,
+      "general": true,
+      "notdesign": false,
+      "typography": false,
+      "usability": true,
+      "ux": false
+    }
+  }
+
+]

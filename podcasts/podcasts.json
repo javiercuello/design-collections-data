@@ -1,0 +1,173 @@
+[
+  {
+    "name": "99% Invisible",
+    "basic_info":{
+      "host": "Roman Mars",
+      "description": "99% Invisible is about all the thought that goes into the things we don’t think about — the unnoticed architecture and design that shape our world.",
+      "image": "../data/podcasts/img/99-percent-invisible.png",
+      "color": "#231F20",
+      "website": "https://99percentinvisible.org"
+    },
+    "categories":{
+      "branding": false,
+      "digital": true,
+      "general": false,
+      "graphicdesign": false,
+      "interfacedesign": false,
+      "notdesign": false,
+      "ux": false
+    }
+  },
+  {
+    "name": "Design Details",
+    "basic_info":{
+      "host": "Brian Lovin, Marshall Bock",
+      "description": "We‘re both designers who love talking about design, development, products, interfaces, games, and more.",
+      "image": "../data/podcasts/img/design-details.png",
+      "color": "#84CECB",
+      "website": "https://designdetails.fm"
+    },
+    "categories":{
+      "branding": false,
+      "digital": true,
+      "general": false,
+      "graphicdesign": false,
+      "interfacedesign": true,
+      "notdesign": false,
+      "ux": true
+    }
+  },
+  {
+    "name": "Design Life",
+    "basic_info":{
+      "host": "Charli Prangley, Femke van Schoonhoven",
+      "description": "About design and side projects for motivated creators. It was born after your hosts, two serial side project addicts, saw a gap in the podcast market for a conversational show about design and the issues young creatives face, that was hosted by two women.",
+      "image": "../data/podcasts/img/design-life.png",
+      "color": "#A56CF6",
+      "website": "https://www.designlife.fm"
+    },
+    "categories":{
+      "branding": false,
+      "digital": false,
+      "general": true,
+      "graphicdesign": false,
+      "interfacedesign": true,
+      "notdesign": false,
+      "ux": false
+    }
+  },
+  {
+    "name": "Design Matters",
+    "basic_info":{
+      "host": "Debbie Millman",
+      "description": "The world's first podcast about design and an inquiry into the broader world of creative culture through wide-ranging conversations with designers, writers, artists, curators, musicians, and other luminaries of contemporary thought.",
+      "image": "../data/podcasts/img/design-matters.png",
+      "color": "#ffffff",
+      "website": "https://www.designmattersmedia.com/designmatters"
+    },
+    "categories":{
+      "branding": false,
+      "digital": false,
+      "general": true,
+      "graphicdesign": true,
+      "interfacedesign": false,
+      "notdesign": false,
+      "ux": false
+    }
+  },
+  {
+    "name": "Presentable",
+    "basic_info":{
+      "host": "Jeff Veen",
+      "description": "Focuses on how we design and build the products that are shaping our digital future. We'll track the tools, trends, and methods being used by teams from the biggest companies and latest startups.",
+      "image": "../data/podcasts/img/presentable.png",
+      "color": "#990000",
+      "website": "https://www.relay.fm/presentable"
+    },
+    "categories":{
+      "branding": false,
+      "digital": true,
+      "general": true,
+      "graphicdesign": false,
+      "interfacedesign": false,
+      "notdesign": false,
+      "ux": false
+    }
+  },
+  {
+    "name": "The Deeply Graphic DesignCast",
+    "basic_info":{
+      "host": "Wes McDowel",
+      "description": "Covers graphic design-related topics, and a few relevant tangents along the way. We also answer listener-submitted questions in every episode.",
+      "image": "../data/podcasts/img/the-deeply-graphic-designcast.png",
+      "color": "#000000",
+      "website": "https://thedeependdesign.com/graphic-design-podcast/"
+    },
+    "categories":{
+      "branding": false,
+      "digital": false,
+      "general": true,
+      "graphicdesign": true,
+      "interfacedesign": false,
+      "notdesign": false,
+      "ux": false
+    }
+  },
+  {
+    "name": "The Observatory",
+    "basic_info":{
+      "host": "Michael Bierut, Jessica Helfand",
+      "description": "Michael Bierut and Jessica Helfand discuss, design, current events, and current enthusiasms.",
+      "image": "../data/podcasts/img/the-observatory.png",
+      "color": "#000000",
+      "website": "https://designobserver.com/podcast-the-observatory.php"
+    },
+    "categories":{
+      "branding": true,
+      "digital": false,
+      "general": true,
+      "graphicdesign": true,
+      "interfacedesign": false,
+      "notdesign": false,
+      "ux": false
+    }
+  },
+  {
+    "name": "Thoroughly Considered",
+    "basic_info":{
+      "host": "Myke Hurley, Dan Provost, Tom Gerhardt",
+      "description": "A show about entrepreneurship, product design, and the ups and downs of running a small indie business.",
+      "image": "../data/podcasts/img/thoroughly-considered.png",
+      "color": "#777",
+      "website": "https://www.relay.fm/tc"
+    },
+    "categories":{
+      "branding": false,
+      "digital": false,
+      "general": true,
+      "graphicdesign": false,
+      "interfacedesign": false,
+      "notdesign": false,
+      "ux": false
+    }
+  },
+  {
+    "name": "Users Defenders",
+    "basic_info":{
+      "host": "Jason Ogle",
+      "description": "This podcast is aimed at highlighting those leading the way in their craft by diving deeper into who they are, and what makes them tick/successful, in order to inspire and equip those aspiring to do the same.",
+      "image": "../data/podcasts/img/users-defenders.png",
+      "color": "#430817",
+      "website": "https://userdefenders.com"
+    },
+    "categories":{
+      "branding": false,
+      "digital": false,
+      "general": false,
+      "graphicdesign": false,
+      "interfacedesign": false,
+      "notdesign": false,
+      "ux": true
+    }
+  }
+]
